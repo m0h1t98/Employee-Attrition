@@ -5,7 +5,6 @@ This project is a machine learning classification problem. The objective of this
 # Steps:
   * Import Libraries and read data set
   * Describe the dataset
-  * Handling the Missing Values
   * Data Transforamtion / Categorical to Numerical
   * Data Cleaning and Feature Selection
   * Split the dataset into train and test set
